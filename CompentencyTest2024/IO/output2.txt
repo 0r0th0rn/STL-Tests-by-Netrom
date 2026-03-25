@@ -1,0 +1,12 @@
+pepene 10
+cartofi 110
+cartofi 10
+castraveti 55
+206.5
+
+pepene 10
+cartofi 110
+cartofi 10
+castraveti 55
+smoothie 15
+386.5

@@ -1,0 +1,11 @@
+pere 30
+pere 10
+pere 40
+mere 20
+136
+
+pere 30
+pere 10
+salata_fructe 40
+mere 20
+184

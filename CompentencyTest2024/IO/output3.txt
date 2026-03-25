@@ -1,0 +1,17 @@
+afine 3
+mure 7
+afine 47
+lime 20
+zahar 10
+1082.92
+
+gem 5
+afine 3
+mure 7
+afine 47
+fructe_negre 6
+gem 6
+fructe_negre 10
+lime 20
+zahar 10
+2107.27
