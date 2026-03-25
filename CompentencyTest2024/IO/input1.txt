@@ -1,0 +1,19 @@
+5
+pere 1.00 50 7
+pere 1.00 50 24
+mere 0.50 70 11
+mere 0.50 90 20
+mere 0.50 40 27
+4
+2 1
+pere 1.20 30
+8 2
+pere 1.40 10
+mere 0.40 70
+13 1
+salata_fructe 3.0 90
+17 2
+pere 1.80 50
+mere 0.70 20
+1
+salata_fructe 2 mere 2 pere 1
