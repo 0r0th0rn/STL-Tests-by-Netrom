@@ -1,0 +1,6 @@
+b1 b2 b3 b5 b4
+user2 b1 b2 b3 b4 b3 0 2
+user3 b1 b2 b3 b4 b5 0 2
+user4 b2 b3 b5 b4 0 3
+user5 b1 b2 b3 b5 b3 b5 0 3
+user6 b2 b3 b5 b4 0 3
