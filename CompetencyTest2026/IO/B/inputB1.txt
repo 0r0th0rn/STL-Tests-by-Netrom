@@ -1,0 +1,46 @@
+25
+LED Lights BMW 600.50 2
+Automatic Climate Toyota 900.45 2
+Sport Wheels Skoda 700.00 3
+MatrixLED Lights Ford 1800.70 3
+Blue Paint BMW 1350.00 1
+Keyless Access Volkswagen 900.80 3
+AdaptiveCruise DriverAssistance BMW 1800.75 4
+Classic Wheels Volkswagen 1400.00 1
+Remote Access Toyota 300.45 1
+DualZone Climate Audi 4000.55 2
+LED Lights Volkswagen 1400.90 3
+Multibeam Lights Mercedes 2000.45 4
+Red Paint Skoda 700.00 3
+Remote Access Volkswagen 400.25 2
+MatrixLED Lights Audi 1800.45 4
+Green Paint BMW 1000.00 1
+Keyless Access Ford 850.55 3
+LED Lights Ford 900.45 2
+Automatic Climate Mercedes 900.45 2
+AdaptiveCruise DriverAssistance Volkswagen 1500.95 4
+Green Paint Volkswagen 500.00 3
+Keyless Access Audi 1200.70 3
+AdaptiveCruise DriverAssistance Audi 1700.65 4
+LED Lights Toyota 1000.75 2
+Classic Wheels Audi 800.00 2
+4
+User1 2500 2
+2
+Paint 1 Green
+Wheels 1 Classic
+User2 1300 4
+2
+Lights 1 LED
+Access 1 Remote
+User3 4700 7
+3
+Lights 1 Multibeam
+Access 1 Keyless
+DriverAssistance 1 AdaptiveCruise
+User4 7000 10
+4
+Climate 1 DualZone
+Lights 1 MatrixLED
+Access 1 Keyless
+DriverAssistance 1 AdaptiveCruise
