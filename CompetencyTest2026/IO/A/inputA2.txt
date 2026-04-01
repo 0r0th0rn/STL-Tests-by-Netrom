@@ -1,0 +1,23 @@
+13
+Sport Wheels Skoda 700.00 3
+Blue Paint BMW 1350.00 1
+Classic Wheels Volkswagen 1400.00 1
+Red Paint Skoda 700.00 3
+Green Paint BMW 1000.00 1
+Sport Wheels Hyundai 700.00 3
+Green Paint Volkswagen 500.00 3
+Premium Wheels BMW 800.00 1
+Blue Paint Skoda 1400.00 3
+Classic Wheels Audi 800.00 2
+Red Paint Hyundai 700.00 3
+Blue Paint Hyundai 1350.00 6
+Premium Wheels Audi 1400.00 1
+2
+User2 3000 5
+2
+Paint 1 Blue
+Wheels 1 Sport
+User1 1200 6
+2
+Paint 1 Green
+Wheels 1 Classic
