@@ -1,0 +1,90 @@
+42
+LED Lights BMW 600.50 1
+Automatic Climate Toyota 900.45 2
+Sport Wheels Skoda 700.00 3
+MatrixLED Lights Ford 1800.70 5
+Blue Paint BMW 1350.00 1
+LED Lights Audi 500.40 2
+Keyless Access Volkswagen 900.80 4
+AdaptiveCruise DriverAssistance BMW 1800.75 5
+Classic Wheels Volkswagen 1400.00 1
+Remote Access Toyota 300.45 1
+DualZone Climate Audi 900.55 3
+LED Lights Volkswagen 1400.90 4
+SafetySense DriverAssistance Toyota 1500.65 3
+Multibeam Lights Mercedes 2000.45 6
+Red Paint Skoda 700.00 2
+Remote Access Volkswagen 400.25 2
+MatrixLED Lights Audi 1800.45 4
+Green Paint BMW 1000.00 1
+Keyless Access Ford 850.55 3
+LED Lights Ford 900.45 2
+Automatic Climate Mercedes 900.45 2
+Sport Wheels Hyundai 700.00 4
+AdaptiveCruise DriverAssistance Volkswagen 1500.95 4
+Sport Suspension BMW 1200.55 3
+12Color AmbientLighting Mercedes 600.25 2
+Green Paint Volkswagen 500.00 5
+Keyless Access Audi 1200.70 2
+AdaptiveCruise DriverAssistance Mercedes 1900.80 6
+Hybrid Powertrain Toyota 2500.80 7
+Remote Access Ford 350.25 1
+SafetySense DriverAssistance Volkswagen 1550.65 5
+Premium Wheels BMW 800.00 2
+Sport DriveMode BMW 500.40 1
+AdaptiveCruise DriverAssistance Audi 1700.65 3
+MMI12inch Infotainment Audi 2200.40 6
+Blue Paint Skoda 1400.00 4
+LED Lights Toyota 1000.75 3
+Keyless Access Mercedes 1500.65 5
+Classic Wheels Audi 800.00 2
+Red Paint Hyundai 700.00 3
+Blue Paint Hyundai 1350.00 6
+Premium Wheels Audi 1400.00 1
+8
+User1 2500 3
+2
+Paint 2 Red Blue
+Wheels 2 Sport Premium
+User2 1500 3
+2
+Paint 2 Red Green
+Wheels 1 Sport
+User3 3000 5
+2
+Lights 2 LED MatrixLED
+Access 2 Keyless Remote
+User4 3500 5
+3
+Climate 2 Automatic DualZone
+DriverAssistance 1 SafetySense
+Access 1 Keyless
+User5 4500 6
+3
+Climate 1 Automatic
+Lights 1 LED
+Access 1 Keyless
+User6 6000 7
+3
+Lights 1 LED
+Access 1 Keyless
+DriverAssistance 1 AdaptiveCruise
+User7 6500 3
+4
+Climate 1 Automatic
+Lights 2 LED MatrixLED
+Access 1 Keyless
+DriverAssistance 2 SafetySense AdaptiveCruise
+User8 8000 6
+5
+Climate 2 Automatic DualZone
+Lights 1 LED
+Access 1 Keyless
+DriverAssistance 1 SafetySense
+Infotainment 1 MMI12inch
+5
+DriverAssistance AdaptiveCruise 
+Climate Automatic
+Access Keyless
+Paint Blue
+Wheels Sport

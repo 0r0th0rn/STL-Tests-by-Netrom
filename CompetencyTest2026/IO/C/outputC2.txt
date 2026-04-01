@@ -1,0 +1,12 @@
+DriverAssistance AdaptiveCruise 2
+Access Keyless 2
+Lights LED 2
+Climate Automatic 1
+Access Keyless 4
+Paint Blue 2
+Wheels Premium 1
+Wheels Sport 1
+Access Keyless 1
+Lights LED 5
+Wheels Sport 1
+Paint Red 2
