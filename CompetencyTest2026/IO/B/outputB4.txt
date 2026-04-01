@@ -1,0 +1,480 @@
+User1
+18
+1400 3
+Hyundai Paint Red 700 3
+Skoda Wheels Sport 700 3
+1400 3
+Skoda Paint Red 700 2
+Skoda Wheels Sport 700 3
+1500 2
+Skoda Paint Red 700 2
+Audi Wheels Classic 800 2
+1500 2
+Skoda Paint Red 700 2
+BMW Wheels Premium 800 2
+1500 3
+Hyundai Paint Red 700 3
+Audi Wheels Classic 800 2
+1500 3
+Hyundai Paint Red 700 3
+BMW Wheels Premium 800 2
+1700 3
+Skoda Wheels Sport 700 3
+BMW Paint Green 1000 1
+1800 2
+Audi Wheels Classic 800 2
+BMW Paint Green 1000 1
+1800 2
+BMW Wheels Premium 800 2
+BMW Paint Green 1000 1
+2050 3
+Skoda Wheels Sport 700 3
+BMW Paint Blue 1350 1
+2100 2
+Skoda Paint Red 700 2
+Audi Wheels Premium 1400 1
+2100 2
+Skoda Paint Red 700 2
+Volkswagen Wheels Classic 1400 1
+2100 3
+Hyundai Paint Red 700 3
+Audi Wheels Premium 1400 1
+2100 3
+Hyundai Paint Red 700 3
+Volkswagen Wheels Classic 1400 1
+2150 2
+Audi Wheels Classic 800 2
+BMW Paint Blue 1350 1
+2150 2
+BMW Wheels Premium 800 2
+BMW Paint Blue 1350 1
+2400 1
+BMW Paint Green 1000 1
+Audi Wheels Premium 1400 1
+2400 1
+BMW Paint Green 1000 1
+Volkswagen Wheels Classic 1400 1
+User2
+4
+1400 3
+Hyundai Paint Red 700 3
+Skoda Wheels Sport 700 3
+1400 3
+Skoda Paint Red 700 2
+Skoda Wheels Sport 700 3
+1500 2
+Skoda Paint Red 700 2
+BMW Wheels Premium 800 2
+1500 3
+Hyundai Paint Red 700 3
+BMW Wheels Premium 800 2
+User3
+45
+800.85 2
+Toyota Access Remote 300.45 1
+Audi Lights LED 500.4 2
+850.65 2
+Ford Access Remote 350.25 1
+Audi Lights LED 500.4 2
+900.65 2
+Volkswagen Access Remote 400.25 2
+Audi Lights LED 500.4 2
+900.95 1
+Toyota Access Remote 300.45 1
+BMW Lights LED 600.5 1
+950.75 1
+Ford Access Remote 350.25 1
+BMW Lights LED 600.5 1
+1000.75 2
+Volkswagen Access Remote 400.25 2
+BMW Lights LED 600.5 1
+1200.9 2
+Toyota Access Remote 300.45 1
+Ford Lights LED 900.45 2
+1250.7 2
+Ford Access Remote 350.25 1
+Ford Lights LED 900.45 2
+1300.7 2
+Volkswagen Access Remote 400.25 2
+Ford Lights LED 900.45 2
+1301.2 3
+Toyota Access Remote 300.45 1
+Toyota Lights LED 1000.75 3
+1350.95 3
+Audi Lights LED 500.4 2
+Ford Access Keyless 850.55 3
+1351 3
+Ford Access Remote 350.25 1
+Toyota Lights LED 1000.75 3
+1401 3
+Volkswagen Access Remote 400.25 2
+Toyota Lights LED 1000.75 3
+1401.2 4
+Audi Lights LED 500.4 2
+Volkswagen Access Keyless 900.8 4
+1451.05 3
+BMW Lights LED 600.5 1
+Ford Access Keyless 850.55 3
+1501.3 4
+BMW Lights LED 600.5 1
+Volkswagen Access Keyless 900.8 4
+1701.1 2
+Audi Lights LED 500.4 2
+Audi Access Keyless 1200.7 2
+1701.35 4
+Toyota Access Remote 300.45 1
+Volkswagen Lights LED 1400.9 4
+1751 3
+Ford Access Keyless 850.55 3
+Ford Lights LED 900.45 2
+1751.15 4
+Ford Access Remote 350.25 1
+Volkswagen Lights LED 1400.9 4
+1801.15 4
+Volkswagen Access Remote 400.25 2
+Volkswagen Lights LED 1400.9 4
+1801.2 2
+BMW Lights LED 600.5 1
+Audi Access Keyless 1200.7 2
+1801.25 4
+Ford Lights LED 900.45 2
+Volkswagen Access Keyless 900.8 4
+1851.3 3
+Ford Access Keyless 850.55 3
+Toyota Lights LED 1000.75 3
+1901.55 4
+Volkswagen Access Keyless 900.8 4
+Toyota Lights LED 1000.75 3
+2001.05 5
+Audi Lights LED 500.4 2
+Mercedes Access Keyless 1500.65 5
+2100.9 4
+Toyota Access Remote 300.45 1
+Audi Lights MatrixLED 1800.45 4
+2101.15 2
+Ford Lights LED 900.45 2
+Audi Access Keyless 1200.7 2
+2101.15 5
+BMW Lights LED 600.5 1
+Mercedes Access Keyless 1500.65 5
+2101.15 5
+Toyota Access Remote 300.45 1
+Ford Lights MatrixLED 1800.7 5
+2150.7 4
+Ford Access Remote 350.25 1
+Audi Lights MatrixLED 1800.45 4
+2150.95 5
+Ford Access Remote 350.25 1
+Ford Lights MatrixLED 1800.7 5
+2200.7 4
+Volkswagen Access Remote 400.25 2
+Audi Lights MatrixLED 1800.45 4
+2200.95 5
+Volkswagen Access Remote 400.25 2
+Ford Lights MatrixLED 1800.7 5
+2201.45 3
+Toyota Lights LED 1000.75 3
+Audi Access Keyless 1200.7 2
+2251.45 4
+Ford Access Keyless 850.55 3
+Volkswagen Lights LED 1400.9 4
+2301.7 4
+Volkswagen Access Keyless 900.8 4
+Volkswagen Lights LED 1400.9 4
+2401.1 5
+Ford Lights LED 900.45 2
+Mercedes Access Keyless 1500.65 5
+2501.4 5
+Toyota Lights LED 1000.75 3
+Mercedes Access Keyless 1500.65 5
+2601.6 4
+Audi Access Keyless 1200.7 2
+Volkswagen Lights LED 1400.9 4
+2651 4
+Ford Access Keyless 850.55 3
+Audi Lights MatrixLED 1800.45 4
+2651.25 5
+Ford Access Keyless 850.55 3
+Ford Lights MatrixLED 1800.7 5
+2701.25 4
+Volkswagen Access Keyless 900.8 4
+Audi Lights MatrixLED 1800.45 4
+2701.5 5
+Volkswagen Access Keyless 900.8 4
+Ford Lights MatrixLED 1800.7 5
+2901.55 5
+Volkswagen Lights LED 1400.9 4
+Mercedes Access Keyless 1500.65 5
+User4
+9
+2401.1 3
+Mercedes Climate Automatic 900.45 2
+Toyota DriverAssistance SafetySense 1500.65 3
+2401.1 3
+Toyota Climate Automatic 900.45 2
+Toyota DriverAssistance SafetySense 1500.65 3
+2401.2 3
+Audi Climate DualZone 900.55 3
+Toyota DriverAssistance SafetySense 1500.65 3
+2401.4 4
+Mercedes Climate Automatic 900.45 2
+Volkswagen DriverAssistance AdaptiveCruise 1500.95 4
+2401.4 4
+Toyota Climate Automatic 900.45 2
+Volkswagen DriverAssistance AdaptiveCruise 1500.95 4
+2401.5 4
+Audi Climate DualZone 900.55 3
+Volkswagen DriverAssistance AdaptiveCruise 1500.95 4
+2601.1 3
+Mercedes Climate Automatic 900.45 2
+Audi DriverAssistance AdaptiveCruise 1700.65 3
+2601.1 3
+Toyota Climate Automatic 900.45 2
+Audi DriverAssistance AdaptiveCruise 1700.65 3
+2601.2 3
+Audi Climate DualZone 900.55 3
+Audi DriverAssistance AdaptiveCruise 1700.65 3
+User5
+60
+1701.3 2
+Toyota Access Remote 300.45 1
+Audi Lights LED 500.4 2
+Mercedes Climate Automatic 900.45 2
+1701.3 2
+Toyota Access Remote 300.45 1
+Audi Lights LED 500.4 2
+Toyota Climate Automatic 900.45 2
+1701.4 3
+Toyota Access Remote 300.45 1
+Audi Lights LED 500.4 2
+Audi Climate DualZone 900.55 3
+1751.1 2
+Ford Access Remote 350.25 1
+Audi Lights LED 500.4 2
+Mercedes Climate Automatic 900.45 2
+1751.1 2
+Ford Access Remote 350.25 1
+Audi Lights LED 500.4 2
+Toyota Climate Automatic 900.45 2
+1751.2 3
+Ford Access Remote 350.25 1
+Audi Lights LED 500.4 2
+Audi Climate DualZone 900.55 3
+1801.1 2
+Volkswagen Access Remote 400.25 2
+Audi Lights LED 500.4 2
+Mercedes Climate Automatic 900.45 2
+1801.1 2
+Volkswagen Access Remote 400.25 2
+Audi Lights LED 500.4 2
+Toyota Climate Automatic 900.45 2
+1801.2 3
+Volkswagen Access Remote 400.25 2
+Audi Lights LED 500.4 2
+Audi Climate DualZone 900.55 3
+1801.4 2
+Toyota Access Remote 300.45 1
+BMW Lights LED 600.5 1
+Mercedes Climate Automatic 900.45 2
+1801.4 2
+Toyota Access Remote 300.45 1
+BMW Lights LED 600.5 1
+Toyota Climate Automatic 900.45 2
+1801.5 3
+Toyota Access Remote 300.45 1
+BMW Lights LED 600.5 1
+Audi Climate DualZone 900.55 3
+1851.2 2
+Ford Access Remote 350.25 1
+BMW Lights LED 600.5 1
+Mercedes Climate Automatic 900.45 2
+1851.2 2
+Ford Access Remote 350.25 1
+BMW Lights LED 600.5 1
+Toyota Climate Automatic 900.45 2
+1851.3 3
+Ford Access Remote 350.25 1
+BMW Lights LED 600.5 1
+Audi Climate DualZone 900.55 3
+1901.2 2
+Volkswagen Access Remote 400.25 2
+BMW Lights LED 600.5 1
+Mercedes Climate Automatic 900.45 2
+1901.2 2
+Volkswagen Access Remote 400.25 2
+BMW Lights LED 600.5 1
+Toyota Climate Automatic 900.45 2
+1901.3 3
+Volkswagen Access Remote 400.25 2
+BMW Lights LED 600.5 1
+Audi Climate DualZone 900.55 3
+2101.35 2
+Toyota Access Remote 300.45 1
+Ford Lights LED 900.45 2
+Mercedes Climate Automatic 900.45 2
+2101.35 2
+Toyota Access Remote 300.45 1
+Ford Lights LED 900.45 2
+Toyota Climate Automatic 900.45 2
+2101.45 3
+Toyota Access Remote 300.45 1
+Ford Lights LED 900.45 2
+Audi Climate DualZone 900.55 3
+2151.15 2
+Ford Access Remote 350.25 1
+Ford Lights LED 900.45 2
+Mercedes Climate Automatic 900.45 2
+2151.15 2
+Ford Access Remote 350.25 1
+Ford Lights LED 900.45 2
+Toyota Climate Automatic 900.45 2
+2151.25 3
+Ford Access Remote 350.25 1
+Ford Lights LED 900.45 2
+Audi Climate DualZone 900.55 3
+2201.15 2
+Volkswagen Access Remote 400.25 2
+Ford Lights LED 900.45 2
+Mercedes Climate Automatic 900.45 2
+2201.15 2
+Volkswagen Access Remote 400.25 2
+Ford Lights LED 900.45 2
+Toyota Climate Automatic 900.45 2
+2201.25 3
+Volkswagen Access Remote 400.25 2
+Ford Lights LED 900.45 2
+Audi Climate DualZone 900.55 3
+2201.65 3
+Toyota Access Remote 300.45 1
+Mercedes Climate Automatic 900.45 2
+Toyota Lights LED 1000.75 3
+2201.65 3
+Toyota Access Remote 300.45 1
+Toyota Climate Automatic 900.45 2
+Toyota Lights LED 1000.75 3
+2201.75 3
+Toyota Access Remote 300.45 1
+Audi Climate DualZone 900.55 3
+Toyota Lights LED 1000.75 3
+2251.4 3
+Audi Lights LED 500.4 2
+Ford Access Keyless 850.55 3
+Mercedes Climate Automatic 900.45 2
+2251.4 3
+Audi Lights LED 500.4 2
+Ford Access Keyless 850.55 3
+Toyota Climate Automatic 900.45 2
+2251.45 3
+Ford Access Remote 350.25 1
+Mercedes Climate Automatic 900.45 2
+Toyota Lights LED 1000.75 3
+2251.45 3
+Ford Access Remote 350.25 1
+Toyota Climate Automatic 900.45 2
+Toyota Lights LED 1000.75 3
+2251.5 3
+Audi Lights LED 500.4 2
+Ford Access Keyless 850.55 3
+Audi Climate DualZone 900.55 3
+2251.55 3
+Ford Access Remote 350.25 1
+Audi Climate DualZone 900.55 3
+Toyota Lights LED 1000.75 3
+2301.45 3
+Volkswagen Access Remote 400.25 2
+Mercedes Climate Automatic 900.45 2
+Toyota Lights LED 1000.75 3
+2301.45 3
+Volkswagen Access Remote 400.25 2
+Toyota Climate Automatic 900.45 2
+Toyota Lights LED 1000.75 3
+2301.55 3
+Volkswagen Access Remote 400.25 2
+Audi Climate DualZone 900.55 3
+Toyota Lights LED 1000.75 3
+2351.5 3
+BMW Lights LED 600.5 1
+Ford Access Keyless 850.55 3
+Mercedes Climate Automatic 900.45 2
+2351.5 3
+BMW Lights LED 600.5 1
+Ford Access Keyless 850.55 3
+Toyota Climate Automatic 900.45 2
+2351.6 3
+BMW Lights LED 600.5 1
+Ford Access Keyless 850.55 3
+Audi Climate DualZone 900.55 3
+2601.55 2
+Audi Lights LED 500.4 2
+Mercedes Climate Automatic 900.45 2
+Audi Access Keyless 1200.7 2
+2601.55 2
+Audi Lights LED 500.4 2
+Toyota Climate Automatic 900.45 2
+Audi Access Keyless 1200.7 2
+2601.65 3
+Audi Lights LED 500.4 2
+Audi Climate DualZone 900.55 3
+Audi Access Keyless 1200.7 2
+2651.45 3
+Ford Access Keyless 850.55 3
+Ford Lights LED 900.45 2
+Mercedes Climate Automatic 900.45 2
+2651.45 3
+Ford Access Keyless 850.55 3
+Ford Lights LED 900.45 2
+Toyota Climate Automatic 900.45 2
+2651.55 3
+Ford Access Keyless 850.55 3
+Ford Lights LED 900.45 2
+Audi Climate DualZone 900.55 3
+2701.65 2
+BMW Lights LED 600.5 1
+Mercedes Climate Automatic 900.45 2
+Audi Access Keyless 1200.7 2
+2701.65 2
+BMW Lights LED 600.5 1
+Toyota Climate Automatic 900.45 2
+Audi Access Keyless 1200.7 2
+2701.75 3
+BMW Lights LED 600.5 1
+Audi Climate DualZone 900.55 3
+Audi Access Keyless 1200.7 2
+2751.75 3
+Ford Access Keyless 850.55 3
+Mercedes Climate Automatic 900.45 2
+Toyota Lights LED 1000.75 3
+2751.75 3
+Ford Access Keyless 850.55 3
+Toyota Climate Automatic 900.45 2
+Toyota Lights LED 1000.75 3
+2751.85 3
+Ford Access Keyless 850.55 3
+Audi Climate DualZone 900.55 3
+Toyota Lights LED 1000.75 3
+3001.6 2
+Ford Lights LED 900.45 2
+Mercedes Climate Automatic 900.45 2
+Audi Access Keyless 1200.7 2
+3001.6 2
+Ford Lights LED 900.45 2
+Toyota Climate Automatic 900.45 2
+Audi Access Keyless 1200.7 2
+3001.7 3
+Ford Lights LED 900.45 2
+Audi Climate DualZone 900.55 3
+Audi Access Keyless 1200.7 2
+3101.9 3
+Mercedes Climate Automatic 900.45 2
+Toyota Lights LED 1000.75 3
+Audi Access Keyless 1200.7 2
+3101.9 3
+Toyota Climate Automatic 900.45 2
+Toyota Lights LED 1000.75 3
+Audi Access Keyless 1200.7 2
+3102 3
+Audi Climate DualZone 900.55 3
+Toyota Lights LED 1000.75 3
+Audi Access Keyless 1200.7 2
+User8
+Imposibil

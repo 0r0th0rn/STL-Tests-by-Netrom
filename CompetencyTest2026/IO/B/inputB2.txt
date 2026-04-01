@@ -1,0 +1,43 @@
+28
+LED Lights BMW 600.50 2
+Automatic Climate Toyota 900.45 2
+Sport Wheels Skoda 700.00 3
+MatrixLED Lights Ford 1800.70 3
+Blue Paint BMW 1350.00 1
+LED Lights Audi 500.40 2
+Keyless Access Volkswagen 900.80 3
+Classic Wheels Volkswagen 1400.00 1
+Remote Access Toyota 300.45 1
+DualZone Climate Audi 900.55 2
+LED Lights Volkswagen 1400.90 3
+Red Paint Skoda 700.00 3
+MatrixLED Lights Audi 1800.45 4
+Green Paint BMW 1000.00 1
+Automatic Climate Mercedes 900.45 2
+Sport Wheels Hyundai 700.00 3
+Sport Suspension BMW 1200.55 3
+Green Paint Volkswagen 500.00 3
+Keyless Access Audi 1200.70 3
+Remote Access Ford 350.25 2
+Premium Wheels BMW 800.00 1
+Sport DriveMode BMW 500.40 2
+Blue Paint Skoda 1400.00 3
+Keyless Access Mercedes 1500.65 3
+Classic Wheels Audi 800.00 2
+Red Paint Hyundai 700.00 3
+Blue Paint Hyundai 1350.00 6
+Premium Wheels Audi 1400.00 1
+3
+User1 2200 6
+2
+Paint 2 Green Blue
+Wheels 2 Premium Classic
+User2 1500 7
+2
+Paint 2 Red Blue
+Wheels 1 Sport
+User3 8000 8
+3
+Climate 2 Automatic DualZone
+Lights 2 LED MatrixLED
+Access 2 Remote Keyless
